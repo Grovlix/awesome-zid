@@ -63,7 +63,7 @@ Contributions are welcome. Please read the [contribution guidelines](CONTRIBUTIN
 ## Webhooks | الويب هوك
 
 - [Webhook Health Tracking](https://docs.zid.sa/webhook-health-tracking-2197281m0) - Official guide to monitoring webhook delivery health.
-- [Webhook Reference (Salla & Zid)](https://github.com/Grovlix/salla-webhook-reference) - Bilingual (English and Arabic) reference for Salla and Zid webhook events, maintained by Grovlix (work in progress).
+- [Webhook Reference (Salla & Zid)](https://grovlix.github.io/salla-webhook-reference/) - Every Salla and Zid webhook event with the official example payload, field list and a JSON Schema, built from the platforms' own docs. Maintained by Grovlix ([source](https://github.com/Grovlix/salla-webhook-reference)).
 - [Zid Webhooks](https://docs.zid.sa/webhooks) - Official overview of webhook events and subscriptions.
 
 ## Starter Templates & Example Apps | قوالب البداية والتطبيقات التجريبية
